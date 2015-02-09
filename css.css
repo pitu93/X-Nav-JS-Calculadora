@@ -1,0 +1,26 @@
+
+#sandbox {
+    font-size:16px;
+    border:solid;
+    border-color:#000000;
+    border-radius: 10px;
+    margin: 20 0 0 30;
+    overflow: hidden ;
+    padding: 20px;
+    width: 350px;
+    z-index: 2;
+    color:red;
+    background-color: #A9A9A9;
+}
+
+#sum{
+    margin: 0 0 20 0;
+    font-size: 30px;
+    letter-spacing: 2px;
+    color:black;
+}
+
+p{
+    font-size:30px;
+    margin: 0 0 0 0 auto;
+}
